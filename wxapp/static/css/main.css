@@ -1,0 +1,34 @@
+body {
+  padding-top: 50px;
+}
+.top-pad {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+#imagecontainer {
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    background-size: 100% auto;
+    background-repeat:no-repeat;
+    background-position: center;
+    cursor:pointer;
+}
+
+.uploadbuttonstyle {
+    text-align: center;
+}
+
+#remove {
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+    background-color: #b3b3b3;
+    opacity: 0.5;
+    color: white;
+    position: relative;
+    top: -45px;
+    cursor:pointer;
+}
